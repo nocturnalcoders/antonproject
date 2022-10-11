@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^rtpvivaslot138hoki\.info$
+RewriteRule ^/?$ "https\:\/\rtpvivaslot138hoki\.info\/" [R=301,L]
+
+
